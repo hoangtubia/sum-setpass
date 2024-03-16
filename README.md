@@ -1,7 +1,6 @@
 # sum-hoangtubia
 setpass
 leekangdo
-songngu
 kimthuy
 quanghung
 shanghai
